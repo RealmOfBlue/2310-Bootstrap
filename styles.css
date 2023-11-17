@@ -6,6 +6,16 @@
     background-image: url(air.jpeg);
 }
 
+.nav3 {
+    background-image: url(earth.jpg);
+    background-size: 250%;
+}
+
+.nav4 {
+    background-image: url(water.jpeg);
+    background-size: 250%;
+}
+
 .carousel-slide {
     margin: auto;
 
